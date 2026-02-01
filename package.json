@@ -1,0 +1,23 @@
+{
+  "name": "luma-calendar-link-expoter",
+  "version": "1.0.0",
+  "description": "Go to the calendar page of Luma, and extract a set of social links from individual event page.",
+  "keywords": [
+    "web-scraping",
+    "agentic-query"
+  ],
+  "license": "MIT",
+  "author": "Nori Kizawa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "agentql": "^1.17.0",
+    "console-table-printer": "^2.15.0",
+    "fs": "^0.0.1-security",
+    "playwright": "^1.58.1"
+  }
+}
