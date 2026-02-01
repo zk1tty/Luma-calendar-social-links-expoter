@@ -19,8 +19,12 @@ Extract all social links from individual event page
   - Close the event page
 - Step 5: Close browser when all events are processed 
 
+## Sample CSV File Result
 
-## Example output
+- [Result Output](luma_events.csv)
+- [Sample Spreadsheet](https://docs.google.com/spreadsheets/d/1Mft_FKvBuEBDKbC2Tq7rBVWGCboU-LR2CbSH4SQe_zM/edit?usp=sharing)
+
+## Example Log Output
 
 ```bash
 📁 Created CSV file: luma_events.csv
