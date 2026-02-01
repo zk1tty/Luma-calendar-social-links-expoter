@@ -2,6 +2,9 @@
 
 Extract all social links from individual event page
 
+![Demo](demo.gif)
+
+
 ## Workflow
 
 - Step 0: Create CSV file with headers at startup
